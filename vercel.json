@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/order",
+      "destination": "https://myhorseboost.com/hsb-aff-buy-dtc/?aff_id=95714&subid=abhi",
+      "permanent": false
+    },
+    {
+      "source": "/order/",
+      "destination": "https://myhorseboost.com/hsb-aff-buy-dtc/?aff_id=95714&subid=abhi",
+      "permanent": false
+    }
+  ]
+}
